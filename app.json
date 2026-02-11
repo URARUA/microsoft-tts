@@ -1,0 +1,6 @@
+{
+  "name": "microsoft-tts",
+  "description": "A TTS app using MSs' Services",
+  "repository": "https://github.com/URARUA/microsoft-tts",
+  "keywords": ["tts", "static"]
+}
